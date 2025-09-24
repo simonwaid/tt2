@@ -13,8 +13,8 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How to test
 
-Explain how to use your project
+Attach a logic a analyzer
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Clock, logic analyzer
