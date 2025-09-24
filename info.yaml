@@ -26,9 +26,9 @@ pinout:
   ui[7]: ""
 
   # Outputs
-  uo[0]: ""
-  uo[1]: ""
-  uo[2]: ""
+  uo[0]: "bit0"
+  uo[1]: "bit1"
+  uo[2]: "bit2"
   uo[3]: ""
   uo[4]: ""
   uo[5]: ""
