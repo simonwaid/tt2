@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-3 Bit synchronous counter
+3 Bit synchronous counter 
 
 ## How to test
 
