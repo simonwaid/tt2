@@ -16,9 +16,9 @@ project:
 # This section is for the datasheet/website. Use descriptive names (e.g., RX, TX, MOSI, SCL, SEG_A, etc.).
 pinout:
   # Inputs
-  ui[0]: "ibit0"
-  ui[1]: "ibit1"
-  ui[2]: "ibit2"
+  ui[0]: ""
+  ui[1]: ""
+  ui[2]: ""
   ui[3]: "ibit3"
   ui[4]: "ibit4"
   ui[5]: "ibit5"
